@@ -152,4 +152,4 @@ However, I am happy to provide:
 * Documentation on the hardware wiring and configuration.
 
 **Author:** James Rio  
-*BSIT Senior | IoT & Embedded Systems Engineer* [LinkedIn](https://www.linkedin.com/in/james-abaquita-3a1306394/)
+*BSIT Senior | Full Stack IoT Engineer* [LinkedIn](https://www.linkedin.com/in/james-abaquita-3a1306394/)
